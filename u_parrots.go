@@ -18,7 +18,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/tuk2/utls/dicttls"
+	"github.com/tuk2/tls/dicttls"
 )
 
 var ErrUnknownClientHelloID = errors.New("tls: unknown ClientHelloID")
