@@ -1,4 +1,4 @@
-module github.com/tuk2/utls
+module github.com/tuk2/tls
 
 go 1.21
 
