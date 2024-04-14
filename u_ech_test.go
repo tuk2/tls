@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 
-	tls "github.com/tuk2/utls"
+	tls "github.com/tuk2/tls"
 	"github.com/tuk2/utls/dicttls"
 )
 
