@@ -19,7 +19,7 @@ import (
 	"hash"
 	"runtime"
 
-	"github.com/tuk2/utls/internal/boring"
+	"github.com/tuk2/tls/internal/boring"
 	"golang.org/x/sys/cpu"
 
 	"golang.org/x/crypto/chacha20poly1305"
