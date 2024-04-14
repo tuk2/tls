@@ -1,6 +1,6 @@
 module github.com/tuk2/tls
 
-go 1.21
+go 1.22.2
 
 
 require (
